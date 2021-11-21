@@ -1,2 +1,2 @@
 # .NET
-Attempt to learn .NET with GitHub
+Attempt to learn .NET with Visual Studio and GitHub
