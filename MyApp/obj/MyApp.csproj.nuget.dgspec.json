@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio\\Code\\dotNet\\MyApp\\MyApp.csproj": {}
+    "D:\\VisualStudio\\Code\\.NET\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio\\Code\\dotNet\\MyApp\\MyApp.csproj": {
+    "D:\\VisualStudio\\Code\\.NET\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\Code\\dotNet\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "D:\\VisualStudio\\Code\\.NET\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "D:\\VisualStudio\\Code\\dotNet\\MyApp\\MyApp.csproj",
+        "projectPath": "D:\\VisualStudio\\Code\\.NET\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\nagro\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\Code\\dotNet\\MyApp\\obj\\",
+        "outputPath": "D:\\VisualStudio\\Code\\.NET\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
