@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ha+fBTEWYA9Ft4sZZSL41VIvREYRBr57pdwj3IJRP0fGGkQIwrG32dE4iEdY4/vS3ENfktIjqale8RIFUWQp+A==",
+  "dgSpecHash": "4QkSmQNgAvqkKDSOaSCh8wZjwllF5UBDczupmsnPaFR8f5PUdyJy3LY82fmzeRnb4WNVf0eplOjYjLb0A3s7Rw==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio2019\\Code\\dotNet\\MyApp\\MyApp.csproj",
+  "projectFilePath": "D:\\VisualStudio\\Code\\dotNet\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

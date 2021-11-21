@@ -1,0 +1,15 @@
+D:\VisualStudio\Code\dotNet\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\VisualStudio\Code\dotNet\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\VisualStudio\Code\dotNet\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\VisualStudio\Code\dotNet\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\VisualStudio\Code\dotNet\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+D:\VisualStudio\Code\dotNet\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\VisualStudio\Code\dotNet\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
