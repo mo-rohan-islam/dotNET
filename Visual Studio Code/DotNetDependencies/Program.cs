@@ -5,12 +5,11 @@
 
 class Program {
     static void Main(string[] args) {
-
-        Snippet1();
-        // Snippet2();          // Incomplete function Fibonacci(x)
+        // MainSnippet1();
+        DotNetDebugging2();
     }
 
-/*    static void Snippet2() {
+    static void DotNetDebugging2() {
         int result = Fibonacci(5);
         Console.WriteLine(result);
         Console.ReadKey(true);
@@ -21,16 +20,16 @@ class Program {
         int n2 = 1;
         int sum = 0;
 
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n; i++) {
             sum = n1 + n2;
             n1 = n2;
             n2 = sum;
         }
 
-        return 
+        return n == 0 ? n1 : n2;
     }
-*/
-    static void Snippet1()
+
+    static void MainSnippet1()
     {
         Console.WriteLine("Quantities:");
         HumanizeQuantities();
