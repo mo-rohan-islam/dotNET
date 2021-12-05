@@ -10,9 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies.dll",
+            // "program": "${workspaceFolder}/DotNetDependencies/bin/Debug/net6.0/DotNetDependencies.dll",
+			"program": "${workspaceFolder}/bin/Debug/net6.0/DotNetDependencies.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/DotNetDependencies",
+            // "cwd": "${workspaceFolder}/DotNetDependencies",
+			"cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             // "console": "internalConsole",    // Debug Console
             "console": "integratedTerminal",
