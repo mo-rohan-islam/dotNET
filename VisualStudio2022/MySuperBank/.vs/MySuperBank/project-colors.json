@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e92c870-9e1c-4e5a-9fbd-05a62996fabc": {
+      "ProjectGuid": "0e92c870-9e1c-4e5a-9fbd-05a62996fabc",
+      "DisplayName": "MySuperBank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

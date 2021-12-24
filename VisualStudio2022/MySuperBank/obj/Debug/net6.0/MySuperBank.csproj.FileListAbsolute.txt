@@ -1,0 +1,15 @@
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\bin\Debug\net6.0\MySuperBank.exe
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\bin\Debug\net6.0\MySuperBank.deps.json
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\bin\Debug\net6.0\MySuperBank.runtimeconfig.json
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\bin\Debug\net6.0\MySuperBank.dll
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\bin\Debug\net6.0\ref\MySuperBank.dll
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\bin\Debug\net6.0\MySuperBank.pdb
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.AssemblyReference.cache
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfoInputs.cache
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.AssemblyInfo.cs
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.dll
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
+C:\Ddrive\VisualStudio\Code\.NET\VisualStudio2022\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
