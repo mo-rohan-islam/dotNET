@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    class Program
     {
         static List<string> names = new List<string> { "<name>", "Rohan", "Khushboo" };
 
@@ -11,8 +11,26 @@ namespace ConsoleApp1
         {
             // Console.WriteLine("Hello World!");
             // IfStatement();
+            // ListTutorial();
 
-            ListTutorial();
+            Fibonacci();
+        }
+
+        static void Fibonacci()
+        {
+            var fibonacciNumbers = new List<int> { 1, 1 };
+
+            // for (int i = 2; i < 20; i++)
+            while (fibonacciNumbers.Count < 20)
+            {
+                var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
+                var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+                fibonacciNumbers.Add(previous + previous2);
+            }
+
+            foreach (var item in fibonacciNumbers)
+                Console.Write($"{item} ");
         }
 
         static void ListTutorial()
