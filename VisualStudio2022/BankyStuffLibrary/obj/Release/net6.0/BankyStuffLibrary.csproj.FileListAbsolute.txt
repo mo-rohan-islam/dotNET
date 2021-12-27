@@ -1,0 +1,12 @@
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\bin\Release\net6.0\BankyStuffLibrary.deps.json
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\bin\Release\net6.0\BankyStuffLibrary.dll
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\bin\Release\net6.0\ref\BankyStuffLibrary.dll
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\bin\Release\net6.0\BankyStuffLibrary.pdb
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.csproj.AssemblyReference.cache
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.AssemblyInfoInputs.cache
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.AssemblyInfo.cs
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.dll
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\ref\BankyStuffLibrary.dll
+C:\D-drive\VisualStudio\Code\dotNET\VisualStudio2022\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.pdb

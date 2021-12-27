@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ddrive\\VisualStudio\\Code\\.NET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Ddrive\\VisualStudio\\Code\\.NET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ddrive\\VisualStudio\\Code\\.NET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Ddrive\\VisualStudio\\Code\\.NET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Rohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Ddrive\\VisualStudio\\Code\\.NET\\VisualStudio2022\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

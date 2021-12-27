@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BankyStuffLibrary;
+using System;
 
 namespace MySuperBank
 {
@@ -8,38 +9,25 @@ namespace MySuperBank
         {
             // See https://aka.ms/new-console-template for more information
 
+
+            //Console.WriteLine("car".Pluralize());
+            //Console.WriteLine("pant".Pluralize());
+            //Console.WriteLine("octopus".Pluralize());
+
+            //Console.WriteLine(3501.ToWords());
+
+
             var account = new BankAccount("Rohan", 10000);
             Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance}.");
 
-            account.MakeWithdrawal(120, DateTime.Now, "Hammock");
             account.MakeWithdrawal(50, DateTime.Now, "Xbox Game");
+            account.MakeWithdrawal(5, DateTime.Now, "Coffee");
+            account.MakeWithdrawal(50, DateTime.Now, "Diet Coke");
+            account.MakeWithdrawal(120, DateTime.Now, "Hammock");
+            account.MakeWithdrawal(7, DateTime.Now, "Tea");
+            account.MakeWithdrawal(8, DateTime.Now, "Pants");
 
             Console.WriteLine(account.GetAccountHistory());
-
-
-            //// Test that the initial balances must be positive.
-            //try
-            //{
-            //    var invalidAccount = new BankAccount("invalid", -55);
-            //}
-            //catch (ArgumentOutOfRangeException e)
-            //{
-            //    Console.WriteLine("Exception caught creating account with negative balance");
-            //    Console.WriteLine(e.ToString());
-            //}
-            //// account.MakeDeposit(-300, DateTime.Now, "stealing");
-
-
-            //// Test for a negative balance:
-            //try
-            //{
-            //    account.MakeWithdrawal(75000, DateTime.Now, "Attempt to overdraw");
-            //}
-            //catch (InvalidOperationException e)
-            //{
-            //    Console.WriteLine("Exception caught trying to overdraw");
-            //    Console.WriteLine(e.ToString());
-            //}
 
         }
     }
