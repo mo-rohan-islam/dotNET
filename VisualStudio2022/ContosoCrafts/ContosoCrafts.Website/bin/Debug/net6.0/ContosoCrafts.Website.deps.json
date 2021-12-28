@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ContosoCrafts.Website/1.0.0": {
+      "ContosoCrafts.WebSite/1.0.0": {
         "runtime": {
-          "ContosoCrafts.Website.dll": {}
+          "ContosoCrafts.WebSite.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ContosoCrafts.Website/1.0.0": {
+    "ContosoCrafts.WebSite/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

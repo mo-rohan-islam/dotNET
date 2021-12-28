@@ -1,9 +1,5 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using ContosoCrafts.WebSite.Models;
 using System.Text.Json;
-using ContosoCrafts.Website.Models;
-using Microsoft.AspNetCore.Hosting;
 
 namespace ContosoCrafts.WebSite.Services
 {
@@ -34,3 +30,6 @@ namespace ContosoCrafts.WebSite.Services
         }
     }
 }
+
+
+

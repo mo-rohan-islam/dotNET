@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace ContosoCrafts.Website.Models
+namespace ContosoCrafts.WebSite.Models
 {
     public class Product
     {
@@ -10,6 +10,7 @@ namespace ContosoCrafts.Website.Models
 
         [JsonPropertyName("img")]
         public string Image { get; set; }
+
         public string Url { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
