@@ -1,0 +1,21 @@
+package com.rohan.jdbc.dao;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class AccountDAO {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		try {
+			Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/mydb", "root", "bolbona");
+			System.out.println(connection);
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}
