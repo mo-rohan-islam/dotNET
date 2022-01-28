@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MySuperBank/1.0.0": {
+        "dependencies": {
+          "BankyStuffLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MySuperBank.dll": {}
+        }
+      },
+      "Humanizer.Core/2.13.14": {
+        "runtime": {
+          "lib/net6.0/Humanizer.dll": {
+            "assemblyVersion": "2.13.0.0",
+            "fileVersion": "2.13.14.5656"
+          }
+        }
+      },
+      "BankyStuffLibrary/1.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.13.14"
+        },
+        "runtime": {
+          "BankyStuffLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySuperBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Humanizer.Core/2.13.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-icZ3IcfmoIn5bQvYiZChRZ6jPn1HpjxQ+XzE5JFh8hp3MyvF1MmKvnc6htPBdW/FSmCotRzzRV6/tptjq/Aylw==",
+      "path": "humanizer.core/2.13.14",
+      "hashPath": "humanizer.core.2.13.14.nupkg.sha512"
+    },
+    "BankyStuffLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

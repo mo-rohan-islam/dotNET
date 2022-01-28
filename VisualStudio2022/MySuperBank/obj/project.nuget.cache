@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQRHXvvhQVei/VGtE+ziyXXewHqAKi6+i2ZZSTMWiqAnvccZx2z8BK5bCKpJule6iTQMafi2JneYLRWq9Qcl2g==",
+  "success": true,
+  "projectFilePath": "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohan\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512"
+  ],
+  "logs": []
+}

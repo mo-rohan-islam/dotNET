@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y6CVWdL0TDKXHD7x/V3nMvvCWBuvfVPS9TwvZGyVYRWCuCrpCzs6/vJnMtKNNt+zwfYv32mZytdjQGBMo55aA==",
+  "success": true,
+  "projectFilePath": "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohan\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512"
+  ],
+  "logs": []
+}

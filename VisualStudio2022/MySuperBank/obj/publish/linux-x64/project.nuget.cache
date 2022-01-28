@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZlTbKx3hz2SGr49dMD0pE/84sk/QkS3N2v3kbMFQVNA8KM12PcCzZyL6JinQxekJc6GdFAy/bD0TbylEsydfhw==",
+  "success": true,
+  "projectFilePath": "C:\\D-drive\\VisualStudio\\Code\\dotNET\\VisualStudio2022\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohan\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512",
+    "C:\\Users\\Rohan\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.1\\microsoft.netcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Rohan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Rohan\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.1\\microsoft.netcore.app.host.linux-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
